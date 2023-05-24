@@ -1,0 +1,59 @@
+Questions We are Trying to Answer
+
+1. What is the typical engagement rate we can expect? What’s the likelihood that we can
+achieve a 15% engagement rate?
+
+We can expect a typical engagement rate of 4.20% and there is a 6.42% chance to achieve at least a 15 % engagement rate.
+
+Details:
+We use total engagement/total impression * 100% to get the engagement rate. To get the likelihood of at least a 15% engagement rate, we find how many records there are where the engagement rate is 15% percent or more. We divide this by the total number of records so. The formula is thus (# of records where the engagement rate >= 15%)/(total # of records) * 100%. 
+
+2. Does day of the week and time of posting affect engagement rates?
+
+Yes
+
+Details:
+In order to find if the day or time of posting affects the engagement rate I graphed days of the week vs engagement rate on a histogram 
+and did the same for days of the week. The graphs clearly show a variation in engagement rates based on day or time of day. 
+
+3. How are our game titles doing in terms of social performance? Is there a specific game
+we should focus more on or less?
+
+DOTA 2 did the best in terms of social performance because it has the highest engagement rate at 4.30 % and the highest total engagement
+at 123,990. 
+
+Details:
+By creating a pivot table, it makes it easier to do analysis. I first created a table for the entire dataset and then 
+I created a pivot table where it organizes the accounts(contents) based on Engagement rate and total engagement. 
+
+4. What media type performs the best?
+
+Photos perform the best due to the fact that it has the highest engagement rate at 4.94% and the highest total engagement at 216,979 engagements.
+
+Details
+I created another pivot table but this time for media types. I did not choose Album at 10 percent engagement because 
+there are only 8 engagements. In addition, I did not choose mixed media because it is not a separate independent category 
+and one cannot know in what combination it is mixed. 
+
+
+5. What is our best performing campaign?
+
+The best performing campaign is community engagement with the highest engagement rate of 5.63 % and the highest total engagement 
+at 2,044,767.
+
+Details
+The same process as the previous ones except with campaign type as the category.
+
+6. Define out a posting strategy for our social channels based on your discoveries.
+
+Based on previous insights, I recommend prioritizing posting photos and videos on Facebook with a focus on community engagement as 
+these factors predict higher user engagement. Based on the graphs, I recommend posting photos on the weekdays and in the time periods 
+of 11:30 am-1:00 pm, 4:00 pm- 4:30 pm, and 6:30 – 7:45 pm because user engagement is likely to be higher at these times. 
+I recommend that the posts be focused on CSGO and DOTA 2 as they are the most popular and generate the most user engagement.
+
+7. What suggestions would you give to the social media team if they want to expand their
+presence (e.g. if our CSGO youtube channel is doing well should we expand to TikTok)?
+
+Those who wish to expand their presence should focus on expanding CSGO and DOTA 2 content to Facebook and that platform has the best 
+social performance in terms of quantity and rate of user engagement. Expanding Valorent content to other platforms can be designated 
+as a low priority as the game is not popular and does not generate much user engagement
