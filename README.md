@@ -22,6 +22,12 @@ Dataset Attributes:
   table_content: a sub pivot table indicating the contents of the accounts with their engagement rates and total engagements
   table_media: a sub pivot table indicating the media types with their engagement rates and total engagements
   table_campaign:  a sub pivot table indicating the campaign types with their engagement rates and total engagements
+  Total Impressions: the number of times a post has been views
+  Total Engagement: the number of times a post has been liked, shared, etc.
+  Total Engagement rate: the ratio between the Total Engagement and Impression
+  TN_social_data.xlsx: Excel Workbook file containing everything above as well as
+  graphs that indicate variation in engagement rate and total engagement over
+  date and time
 
 Description
 For more detail take a look at the EG_assesssment_answers file and Process Documentation File
