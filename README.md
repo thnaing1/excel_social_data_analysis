@@ -43,7 +43,7 @@ Dataset Attributes:
   
   EG_assesssment_answers: file containing questions to be answered and my responses
   
-  Process Documentation: file containing the entirety of my Data Analytics problem
+  EG_task_data_document: word file containing the entirety of my Data Analytics problem
   solving process
 
 Description:
